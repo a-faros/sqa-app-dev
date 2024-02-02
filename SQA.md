@@ -3,12 +3,12 @@
  |-|---|---|----|
  || Refer as **BRS**|Refer as **SRS**|Refer as **SDS**|
 |Definition| A formal document that describes the various requirements provided by the business & describes the various requirements provided by the client.|	It specifies the functional and non-functional requirements present in the software. | Describe the actual software, most from a technical perpective.|
-|Creation| derived from the client’s requirements and the client’s interaction | derived from the BRS.| exist when a system is developed. Fine difference, to SRS, *refer Notes***_SRS vs SDS._**. | 
-|Created by|	 a business analyst.| a system analyst or a system architect. *refer Notes***_SRS Created by._**.|Development team.|
+|Creation| derived from the client’s requirements and the client’s interaction | derived from the BRS.| exist when a system is developed. Fine difference, to SRS, _refer Notes_**SRS vs SDS.**. | 
+|Created by|	 a business analyst.| a system analyst or a system architect. _refer Notes_**SRS Created by.**.|Development team.|
 |Decribes|	the functional specifications of the software at a very high level.| the technical and functional specification of the software also at a high level.|
 |Key terms| Business Function, Business Process & Activity| Module, Sub Module, ERD|
 
-> [!NOTES]
+> [!NOTE]
 > **_SRS vs SDS._** SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.a\
 > **_SRS Created by._**  Although, in some companies, the business analyst can also create an SRS. Some companies do not even have an SRS, instead, they make their BRS detailed enough so that it can be used as SRS.
 
