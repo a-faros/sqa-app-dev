@@ -14,6 +14,12 @@ allow better clarity.
 
 Who are the persons/groups of people affected by this?
 
+| Stakeholder | Description |
+| -------- | ------- |
+| Employees  | All persons employee by this company. |
+| HR Personnel | Person assigned to manage this system. |
+| Operation Managers    | Group of persons, who perform approval functions.|  |
+
 ## Business Architecture
 
 In general the organization's setup. What are the mediums use for the
