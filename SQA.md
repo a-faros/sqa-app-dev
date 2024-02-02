@@ -3,8 +3,8 @@
  || Refer as **BRS**|Refer as **SRS**|Refer as **SDS**|
 |-|---|---|----|
 |Definition| A formal document that describes the various requirements provided by the business & describes the various requirements provided by the client.|	It specifies the functional and non-functional requirements present in the software. | Describe the actual software, most from a technical perpective.|
-|Creation| derived from the client’s requirements and the client’s interaction | derived from the BRS.| exist when a system is developed. Fine difference, to SRS, refer Notes. | 
-|Created by|	 a business analyst.| a system analyst or a system architect. Refer Notes.|Development team.|
+|Creation| derived from the client’s requirements and the client’s interaction | derived from the BRS.| exist when a system is developed. Fine difference, to SRS, refer Notes[^1]. | 
+|Created by|	 a business analyst.| a system analyst or a system architect. Refer Notes[^2].|Development team.|
 |Decribes|	the functional specifications of the software at a very high level.| the technical and functional specification of the software also at a high level.|
 |Key terms| Business Function, Business Process & Activity| Module, Sub Module, ERD|
 
