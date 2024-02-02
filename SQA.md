@@ -1,4 +1,10 @@
 # Introduction
+ ||BRS|SRS|SDS|
+|-|---|---|----|
+|1| A formal document that describes the various requirements provided by the business & describes the various requirements provided by the client.|	It specifies the functional and non-functional requirements present in the software. | Describe the actual software, most from a technical perpective.|
+2|It is derived from the client’s requirements and the client’s interactionn | It is derived from the Business Requirements Specification (BRS).| It exist when a system is developed. Fine difference, SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.| 
+|3|	it is created by a business analyst.|It is created by a system analyst or a system architect. Although, in some companies, the business analyst can also create an SRS. Some companies do not even have an SRS, instead, they make their BRS detailed enough so that it can be used as SRS.|Development team.|
+|4|	It describes the functional specifications of the software at a very high level.|It describes the technical and functional specification of the software also at a high level.|
 
 # Business Requirement Specification
 ## Business Case
