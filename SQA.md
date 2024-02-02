@@ -12,6 +12,12 @@
 > **_SRS vs SDS._** SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.a\
 > **_SRS Created by._**  Although, in some companies, the business analyst can also create an SRS. Some companies do not even have an SRS, instead, they make their BRS detailed enough so that it can be used as SRS.
 
+![](./Picture1.png)
+
+> [!IMPORTANT]
+> It is important to understand that BRS is not neccessarily a 1 to 1 match. There may be intances that the BRS needs to be developed using 2 or more SRS. Or a few BRS can be handled by an SRS.
+  
+![](./Picture2.png)
 # Business Requirement Specification
 ## Business Case
 
