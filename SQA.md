@@ -1,10 +1,9 @@
----
-output:
-  html_document:
-    toc: true
-    toc_float:
-      collapsed: true
----
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+
 # Introduction
  ||Business Requirements Specification|Software Requirements Specification|Software Design Specification|
  |-|---|---|---|
