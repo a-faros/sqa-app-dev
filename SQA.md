@@ -1,8 +1,3 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      collapse: section
 
 # Introduction
  ||Business Requirements Specification|Software Requirements Specification|Software Design Specification|
@@ -100,19 +95,19 @@ What is expected to be covered? Also specify what is out of scope to allow bette
 
 Who are the persons/groups of people using this system?
 
-![Shape1](RackMultipart20240202-1-9f93hi_html_e274af1910112117.gif)
+![](./images/actorList.png)
 
 ## Systems Functions
 
 ### Hierarchy of systems functions
 
-![Shape2](RackMultipart20240202-1-9f93hi_html_6b562129990d5ec2.gif)
+![](./images/hierSF.png)
 
 ### User/Actor List mapping
 
 For each module, a map is created.
 
-![Shape3](RackMultipart20240202-1-9f93hi_html_56d4cb7521923351.gif)
+![](./images/actorMapping.png)
 
 ## Model Use Cases
 
@@ -124,11 +119,11 @@ May usually relate to BRS Business Function
 
 ### Use Case Diagram
 
-![Shape4](RackMultipart20240202-1-9f93hi_html_610bef51a0fea871.gif)
+![](./images/uCaseDiag.png)
 
-### Use Case Description
+#### Use Case Description
 
-![Shape5](RackMultipart20240202-1-9f93hi_html_d70e16374e607635.gif)
+![](./images/uCaseDesc.png)
 
 ### Sub Module Name
 
@@ -136,23 +131,23 @@ May usually relate to BRS Business Process
 
 #### Use Case Diagram
 
-![Shape6](RackMultipart20240202-1-9f93hi_html_36116b47a471c9a0.gif)
+![](./images/uCaseDiag2.png)
 
 #### Use Case Description
 
-![Shape7](RackMultipart20240202-1-9f93hi_html_d3006ec08435490.gif)
+![](./images/uCaseDesc2.png)
 
 ## Data Model
 
 ### Entity Relationship Diagram
 
-![Shape8](RackMultipart20240202-1-9f93hi_html_e378a43e5e83b411.gif)
+![](./images/ERD.png)
 
 ### Data Definition
 
 #### Entity Definition
 
-![Shape9](RackMultipart20240202-1-9f93hi_html_d303e3dc4d871e86.gif)
+![](./images/entDef.png)
 
 ## Process Model
 
@@ -160,11 +155,11 @@ May usually relate to BRS Business Process
 
 #### Data Flow Diagram
 
-![Shape10](RackMultipart20240202-1-9f93hi_html_b606c1a305b64a84.gif)
+![](./images/DFDiag.png)
 
 #### Data Flow Definition
 
-![Shape11](RackMultipart20240202-1-9f93hi_html_7defb32e31969ac1.gif) ![Shape12](RackMultipart20240202-1-9f93hi_html_6867b6a134b62621.gif)
+![](./images/DFDef.png)
 
 ## System Administration
 
