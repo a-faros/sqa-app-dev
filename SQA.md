@@ -12,12 +12,12 @@
 > **_SRS vs SDS._** SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.a\
 > **_SRS Created by._**  Although, in some companies, the business analyst can also create an SRS. Some companies do not even have an SRS, instead, they make their BRS detailed enough so that it can be used as SRS.
 
-![](./Picture1.png)
+![](./images/Picture1.png)
 
 > [!IMPORTANT]
 > It is important to understand that BRS is not neccessarily a 1 to 1 match. There may be intances that the BRS needs to be developed using 2 or more SRS. Or a few BRS can be handled by an SRS.
-  
-![](./Picture2.png)
+
+![](./images/Picture2.png)
 # Business Requirement Specification
 ## Business Case
 
@@ -45,28 +45,28 @@
 > [!TIP]
 > In general the organization's setup. What are the mediums use for the service? The users of the service? The main service offering? The existing application systems? The information clusters? Information Providers/Management? The technology and infrastructure?
 
-![](./image1.png)
+![](./images/bizArc.png)
 
 ## Information Architecture
 
 > [!TIP]
 > Specific to the service of the biz case, what information, information provider, business process, users.
 
-![](./image2.png)
+![](./images/infoArc.png)
 
 ## Business Functions
 
 ### Hierarchy of business functions
 
-![](./image3.png)
+![](./images/hierBF.png)
 
 ### Business Functions Description
 
-![](./image5.png)
+![](./images/descBF.png)
 
 ### User List
 
-![](./image6.png)
+![](./images/userList.png)
 
 ## Business Process Needs
 
@@ -74,11 +74,92 @@
 
 #### Process Flow
 
-![](./image7.png)
+![](./images/procFlow.png)
 
 #### Activity Definition
 
-![](./image8.png)
-![](./image9.png)
+![](./images/actDef.png)
 
 # System Requirement Specification
+## Purpose
+
+> [!TIP]
+> What is the reason for this need, the need to have this system?
+
+## Scope
+
+What is expected to be covered? Also specify what is out of scope to allow better clarity.
+
+## User/Actors
+
+Who are the persons/groups of people using this system?
+
+![Shape1](RackMultipart20240202-1-9f93hi_html_e274af1910112117.gif)
+
+## Systems Functions
+
+### Hierarchy of systems functions
+
+![Shape2](RackMultipart20240202-1-9f93hi_html_6b562129990d5ec2.gif)
+
+### User/Actor List mapping
+
+For each module, a map is created.
+
+![Shape3](RackMultipart20240202-1-9f93hi_html_56d4cb7521923351.gif)
+
+## Model Use Cases
+
+For each module and sub module, use cases are created.
+
+### Module Name
+
+May usually relate to BRS Business Function
+
+### Use Case Diagram
+
+![Shape4](RackMultipart20240202-1-9f93hi_html_610bef51a0fea871.gif)
+
+### Use Case Description
+
+![Shape5](RackMultipart20240202-1-9f93hi_html_d70e16374e607635.gif)
+
+### Sub Module Name
+
+May usually relate to BRS Business Process
+
+#### Use Case Diagram
+
+![Shape6](RackMultipart20240202-1-9f93hi_html_36116b47a471c9a0.gif)
+
+#### Use Case Description
+
+![Shape7](RackMultipart20240202-1-9f93hi_html_d3006ec08435490.gif)
+
+## Data Model
+
+### Entity Relationship Diagram
+
+![Shape8](RackMultipart20240202-1-9f93hi_html_e378a43e5e83b411.gif)
+
+### Data Definition
+
+#### Entity Definition
+
+![Shape9](RackMultipart20240202-1-9f93hi_html_d303e3dc4d871e86.gif)
+
+## Process Model
+
+### Contextual Diagram
+
+#### Data Flow Diagram
+
+![Shape10](RackMultipart20240202-1-9f93hi_html_b606c1a305b64a84.gif)
+
+#### Data Flow Definition
+
+![Shape11](RackMultipart20240202-1-9f93hi_html_7defb32e31969ac1.gif) ![Shape12](RackMultipart20240202-1-9f93hi_html_6867b6a134b62621.gif)
+
+## System Administration
+
+Define module/sub modules that is required to maintain the system. These modules/sub modules does not have **direct** relation to the BRS.
