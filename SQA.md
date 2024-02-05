@@ -1,3 +1,10 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+---
 # Introduction
  ||Business Requirements Specification|Software Requirements Specification|Software Design Specification|
  |-|---|---|---|
