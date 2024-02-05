@@ -12,7 +12,7 @@
 |Key terms| Business Function, Business Process & Activity| Module, Sub Module, ERD|
 
 > [!NOTE]
-> **_SRS vs SDS._** SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.a\
+> **_SRS vs SDS._** SDS may contain limitation that is unable to cater to the SRS and/or has features additional that SRS did not have a need.\
 > **_SRS Created by._**  Although, in some companies, the business analyst can also create an SRS. Some companies do not even have an SRS, instead, they make their BRS detailed enough so that it can be used as SRS.
 
 
