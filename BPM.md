@@ -1,4 +1,5 @@
 # 1.0 Develop Vision and Strategy
+
 > [!TIP]
 > Establishing a direction and vision for an organization. This involves defining the business concept and long-term vision, as well as developing the business strategy and managing strategic initiatives. Processes in this category focus on creating a vision, a mission, and strategic objectives, and culminate in creating measures to ensure that the organization is moving in the desired direction.
 ## 1.1 Define the business concept and long-term vision
